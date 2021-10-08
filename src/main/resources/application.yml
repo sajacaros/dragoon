@@ -1,0 +1,4 @@
+server:
+  port: 6900
+  servlet:
+    context-path: /dragoon
